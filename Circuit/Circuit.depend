@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552302927 source:c:\users\brstefan\desktop\circuit\circuit.cpp
+	<iostream>
+	<vector>
+
