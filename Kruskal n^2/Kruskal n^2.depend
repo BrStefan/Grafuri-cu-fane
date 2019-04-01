@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553598725 source:c:\users\brstefan\desktop\kruskal n^2\kruskal n^2.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
