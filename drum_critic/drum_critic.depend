@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557169313 source:c:\users\brstefan\desktop\drum_critic\drum_critic.cpp
+	<vector>
+	<cstdio>
+	<algorithm>
+
