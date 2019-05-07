@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557231455 source:c:\users\brstefan\desktop\puncte_control_drum\puncte_control_drum.cpp
+	<vector>
+	<cstdio>
+	<algorithm>
+
